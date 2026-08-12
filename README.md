@@ -3,3 +3,4 @@ Primer repositorio del taller de GitHub — Intitución educativa Josefina Muño
 Mi nombre es Luisana.
 Estudio Programación de Software y Contenidos Digitales.
 Este repositorio fue creado como parte del taller de GitHub.
+Este proyecto es una práctica de Git y GitHub.
